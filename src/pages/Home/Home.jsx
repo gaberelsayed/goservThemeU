@@ -2,7 +2,7 @@ import React, { useEffect, useLayoutEffect, useState } from "react";
 import Info from "../../components/Info/Info";
 import Nav from "../../components/nav/Nav";
 import DynamicSlider from "../../components/DynamicSlider/DynamicSlider";
-import Features from "../../components/Features/Features";
+import Features from "../../components/Features/Features";  
 import StaticProducts from "../../components/StaticProducts/StaticProducts";
 import StaticSlider from "../../components/StaticSlider/StaticSlider";
 import SpecialProducts from "../../components/SpecialProducts/SpecialProducts";
